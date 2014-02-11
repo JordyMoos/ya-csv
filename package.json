@@ -9,9 +9,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "http://github.com/koles/ya-csv"
+    "url": "http://github.com/JordyMoos/ya-csv"
   },
-  "bugs": { "url": "http://github.com/koles/ya-csv/issues" },
+  "bugs": { "url": "http://github.com/JordyMoos/ya-csv/issues" },
   "directories": { "lib": "./lib", "test": "./test" },
   "bin" : { "csv-reshuffle" : "./bin/reshuffle.js" },
   "dependencies": {},
